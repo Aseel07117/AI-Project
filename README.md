@@ -4,7 +4,7 @@
 
 | Student Name | Student ID | Assigned Model | Tasks |
 | :--- | :--- | :--- | :--- |
-| Eiman Alatwy | 451000436 | **General Model**: `Qwen/Qwen2.5-0.5B-Instruct` | Tasks 1 & 2 |
+| Eman Alatwy | 451000436 | **General Model**: `Qwen/Qwen2.5-0.5B-Instruct` | Tasks 1 & 2 |
 | Aseel Alshamlani | 451006284 | **General Model**: `Qwen/Qwen2.5-0.5B-Instruct` | Tasks 1 & 2 |
 | Kholood Majrashi | 451009278 | **Code Model**: `Qwen/Qwen2.5-Coder-0.5B-Instruct` | Tasks 1 & 2 |
 
